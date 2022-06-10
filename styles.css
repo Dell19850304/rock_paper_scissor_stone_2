@@ -1,0 +1,22 @@
+.choiceBtn{
+    line-height: 30px;
+    width:150px;
+}
+
+
+#gameDiv{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 3px solid;
+    border-radius: 25px;
+    padding:15px;
+    background-color: lightcoral;
+    text-align: center;
+}
+
+#playerText{
+    color:blue;
+}
+
+#computerText{
+    color:greenyellow;
+}
